@@ -4,12 +4,12 @@
 
 ## Descrição
 
-Este projeto tem como objetivo realizar uma avaliação simples das vendas de cursos online. Utilizando bibliotecas como pandas para manipulação de dados e matplotlib para visualização, buscamos compreender como as vendas estão distribuídas ao longo do mês e identificar quais cursos são os mais procurados.
+Este projeto tem como objetivo realizar uma avaliação simples das vendas de cursos online. Utilizando bibliotecas do Python, buscamos compreender como as vendas estão distribuídas ao longo do mês e identificar quais cursos são os mais procurados.
 
 ## Importação de Bibliotecas:
 
-pandas é usada para estruturar e manipular os dados.
-matplotlib.pyplot é utilizada para visualização dos dados através de gráficos.
+- pandas é usada para estruturar e manipular os dados.
+- matplotlib.pyplot é utilizada para visualização dos dados através de gráficos.
 
 
 ## Dados:
@@ -25,7 +25,9 @@ Um gráfico de linha é criado usando plt.plot() para mostrar a evolução das v
 Identificação dos cursos mais populares: Os cursos são ordenados pela quantidade de vendas em ordem decrescente e os três cursos com maior quantidade de vendas são selecionados.
 
 ## Conclusões Obtidas:
-O gráfico de barras horizontais destaca os três cursos mais populares com base na quantidade de vendas.
-A distribuição de vendas mostra uma preferência significativa por alguns cursos em comparação com outros, o que pode indicar uma demanda maior por determinados temas.
-Curso com preço mais baixo como "Introdução à Programação em Python" (39.90,, pode estar atraindo um maior número de compradores devido ao custo acessível.
+- O gráfico de barras horizontais destaca os três cursos mais populares com base na quantidade de vendas.
+
+- A distribuição de vendas mostra uma preferência significativa por alguns cursos em comparação com outros, o que pode indicar uma demanda maior por determinados temas.
+
+- Curso com preço mais baixo como "Introdução à Programação em Python" (39.90,, pode estar atraindo um maior número de compradores devido ao custo acessível.
 
